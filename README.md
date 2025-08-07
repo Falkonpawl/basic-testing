@@ -11,7 +11,7 @@
 2. Клонируйте репозиторий:
 
    ```bash
-   git clone https://github.com/<ваш_пользователь>/basic-testing.git
+   git clone https://github.com/falkonpawl/basic-testing.git
    ```
 3. Перейдите в папку проекта:
 
